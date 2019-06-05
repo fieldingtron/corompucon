@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://coropucon.netlify.com/canciones/</loc>
+    <lastmod>2019-05-05T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coropucon.netlify.com/canciones/shosholsa/</loc>
+    <lastmod>2019-05-05T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://coropucon.netlify.com/canciones/the-majesty/</loc>
+    <lastmod>2019-04-24T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://coropucon.netlify.com/canciones/caliche/</loc>
+    <lastmod>2018-08-31T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://coropucon.netlify.com/canciones/haleluyah/</loc>
+    <lastmod>2018-08-05T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://coropucon.netlify.com/canciones/pupila-de-aguila/</loc>
+    <lastmod>2018-08-05T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://coropucon.netlify.com/canciones/siyahamba/</loc>
+    <lastmod>2018-08-05T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://coropucon.netlify.com/canciones/somos-americanos/</loc>
+    <lastmod>2018-08-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://coropucon.netlify.com/canciones/te-recuerdo-amanda/</loc>
+    <lastmod>2018-08-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://coropucon.netlify.com/</loc>
+    <lastmod>2018-06-25T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://coropucon.netlify.com/canciones/baba-yetu/</loc>
+    <lastmod>2018-01-31T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://coropucon.netlify.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://coropucon.netlify.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

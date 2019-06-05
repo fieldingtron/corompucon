@@ -1,0 +1,31 @@
+baseURL = "https://coropucon.netlify.com/"
+languageCode = "es-es"
+title = "Coro Municipal Pucon"
+DefaultContentLanguage = "es"
+
+
+[params]
+  # Main sections (currently used for the recent posts in the sidebar)
+  mainSections = ["canciones"]
+
+  # testing nerd variable
+  #nerd = true
+
+  # Default author
+  #author = "John Doe"
+
+  # Date format (default: Jan 2, 2006)
+  # date_format = "Jan 2, 2006"
+
+  # Display post summaries instead of content in list templates (default: true)
+  # truncate = false
+
+  [params.sidebar]
+    # Whether to show the recent posts or not (default: true)
+    # showRecent = false
+
+    # Whether to show the taxonomies or not (default: true)
+    showTaxonomy = false
+
+    # How many posts to show on the sidebar (Default: 5)
+    # num_recent_posts = 5

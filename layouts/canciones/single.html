@@ -1,0 +1,67 @@
+{{ define "main" }}
+
+<header>
+    <h2 class="blog-post-title">
+        <a class="text-dark" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+    </h2>
+    {{ partial "post-date" . }}
+    {{ partial "post-tags" . }}
+    {{ partial "post-categories" . }}
+    <hr>
+</header>
+<article class="blog-post">
+    {{ .Content }}
+
+    {{with .Params.youtube}}
+    <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ . }}?rel=0" allowfullscreen></iframe>
+    </div>
+    {{end}}
+
+
+    <div class="row">
+      <div class="col"><hr></div>
+      <div class="col-auto"><h4>Grabaciones Para Practicar</h4></div>
+      <div class="col"><hr></div>
+  </div>
+
+    {{ partial "cuerda.html" (dict "name" "Soprano " "resources" ($.Page.Resources.Match ("sopr*")) ) }}
+    {{ partial "cuerda.html" (dict "name" "Contra Altos" "resources" ($.Page.Resources.Match ("contr*")) ) }}
+    {{ partial "cuerda.html" (dict "name" "Tenores" "resources" ($.Page.Resources.Match ("ten*")) ) }}
+    {{ partial "cuerda.html" (dict "name" "Bajo" "resources" ($.Page.Resources.Match ("baj*")) ) }}
+
+     
+
+    {{ $mp4 := $.Page.Resources.GetMatch ("song*") }}
+    {{ with $mp4}}  
+    
+    <div class="row">
+      <div class="col"><hr></div>
+      <div class="col-auto"><h4>Grabaciones De Youtube</h4></div>
+      <div class="col"><hr></div>
+  </div>
+
+    <div class='row'>
+      <div class="col-sm-6">Youtube</div>
+      <div class="col-sm-6">
+          {{ partial "soundfile.html" (dict "mp4" $mp4  ) }}
+      </div>
+    </div>
+    {{end}}
+
+    {{ if .IsTranslated }}
+      <h4>{{ i18n "translations" }}</h4>
+      <ul>
+        {{ range .Translations }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Lang }}: {{ .Title }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+
+    {{ partial "related" . }}
+
+</article>
+
+{{ end }}
