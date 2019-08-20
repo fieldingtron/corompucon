@@ -7,8 +7,15 @@ Bienvenidos a coro municipal pucon.
 
 ## Calendario ##
 
-### Mayo ###
-* 28 18:30 horas: Ensayo General
+### UFRO el viernes 23
 
-### Junio ###
-* 7 18:30 horas: Ensayo General
+1. Siyahamba
+2. Halleluya (L. Cohen)
+3. Te recuerdo Amanda
+4. Si somos americanos
+5. Caliche
+6. Shosholoza
+7. The Majesty
+8. Baba Yetu
+9. Adiemus
+10. Va Pensiero
