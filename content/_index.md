@@ -7,15 +7,43 @@ Bienvenidos a coro municipal pucon.
 
 ## Calendario ##
 
-### UFRO el viernes 23
+### Lunes 7/18.30hs
+* Ensayo General
+* Casa Museo Padre Pancho
 
-1. Siyahamba
-2. Halleluya (L. Cohen)
-3. Te recuerdo Amanda
-4. Si somos americanos
-5. Caliche
-6. Shosholoza
-7. The Majesty
-8. Baba Yetu
-9. Adiemus
-10. Va Pensiero
+### Miércoles 9
+* A 18.30, S 19.30 y T+B 20.30
+* Ensayo por cuerdas
+* Casa de la Cultura
+
+### Viernes 11/18.30hs
+* Ensayo General
+*UFRO
+
+### Miércoles 16 18.30 
+* Ensayo General
+* Locación por confirmar
+
+### Domingo 20/11.00hs
+* Presentación en Encuentro Internacional de Coros
+* Parroquia Santa Cruz, Pucón
+* Repertorio:
+    * Halleluya (Cohen)
+    * Caliche
+    * Si somos Americanos
+    * Adiemus
+    * Baba Yetu
+
+### Miércoles 23
+* A 18.30, S 19.30 y T+B 20.30
+* Ensayo por cuerdas
+* Casa de la Cultura
+
+### Lunes 28/18.30hs
+* Ensayo General
+* Casa Museo Padre Pancho
+
+### Miércoles 30
+* A 18.30, S 19.30 y T+B 20.30
+* Ensayo por cuerdas
+* Casa de la Cultura
